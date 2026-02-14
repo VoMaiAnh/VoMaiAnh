@@ -22,7 +22,7 @@ Hi! I'm Mai Anh, a Vietnamese tech enthusiast working as an **AI Developer/Data 
 - 🌱 Learning: Advanced MLOps and AI deployment strategies
 - 💼 Experience: AI Development, Marketing Analytics Automation, Azure DevOps
 - 🎓 Education: MSc Data Science & BI (UCM) | BSc International Business Economics (Foreign Trade University)
-- 🌍 Languages: Vietnamese (Native) | English (Advanced - APTIS C) | Spanish (Advanced - C1) | Chinese (Basic - A2)
+- 🌍 Languages: Vietnamese (Native) | English (Advanced - APTIS C) | Spanish (Advanced - C1) 
 
 ---
 
@@ -53,9 +53,8 @@ Hi! I'm Mai Anh, a Vietnamese tech enthusiast working as an **AI Developer/Data 
 ## 🚀 Currently Working On
 
 - 🤖 Developing chatbots and web applications with Large Language Models
-- 📊 Automating marketing analytics dashboards for campaign tracking
 - ☁️ Implementing and maintaining ML models (DevOps) on Azure Cloud Platform
-- 🔧 Building end-to-end data pipelines for business intelligence
+- 📊 Automating marketing analytics dashboards for campaign tracking
 
 ---
 
