@@ -64,10 +64,6 @@ Hi! I'm Mai Anh, a Vietnamese tech enthusiast working as an **AI Developer/Data 
 
 ![Mai Anh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoMaiAnh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoMaiAnh&layout=compact&theme=radical&langs_count=8&hide_border=true&card_width=320)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=VoMaiAnh&theme=radical&hide_border=true)
-
 
 </div>
 
