@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm Mai Anh, a Vietnamese tech enthusiast working as an **AI Developer/Data Scientist** at Mediacore Solutions in Madrid. I hold a **Master's degree in Data Science and Business Intelligence** from Universidad Complutense de Madrid (GPA: 8.86/10). I'm passionate about developing **LLM-powered web applications**, automating marketing dashboards, and deploying AI models on Azure.
+Hi! I'm Mai Anh, a Vietnamese tech enthusiast working as an **AI Developer/Data Scientist** at GPU Solutions from Madrid. I hold a **Master's degree in Data Science and Business Intelligence** from Universidad Complutense de Madrid (GPA: 8.86/10). I'm passionate about developing **LLM-powered web applications**, automating marketing dashboards, and deploying AI models on Azure.
 
 - 🔭 Currently working on: Web Apps and Chatbots with Large Language Models
 - 🌱 Learning: Advanced MLOps and AI deployment strategies
