@@ -56,16 +56,6 @@ Hi! I'm Mai Anh, a Vietnamese tech enthusiast working as an **AI Developer/Data 
 - ☁️ Implementing and maintaining ML models (DevOps) on Azure Cloud Platform
 - 📊 Automating marketing analytics dashboards for campaign tracking
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VoMaiAnh&theme=radical&hide_border=true)
-
-
-</div>
 
 ---
 
